@@ -1,1 +1,1 @@
-# Using Machine Learning to select stocks
+# Using Machine Learning to select Stocks
