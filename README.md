@@ -1,1 +1,1 @@
-# machine-learning-stock-selection
+# Using Machine Learning to select stocks
